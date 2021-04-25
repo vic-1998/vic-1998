@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor Plaza</h1>
 <h3 align="center">A passionate about web development, and mobile development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vic-1998&label=Profile%20views&color=0e75b6&style=flat" alt="vic-1998" /> </p>
+- 🌱 I’m currently learning **VueJs, React, React-Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@victor_plaza98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@victor_plaza98" height="30" width="40" /></a>
+<a href="https://twitter.com/victor_plaza98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="victor_plaza98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
